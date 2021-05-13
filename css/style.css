@@ -54,17 +54,118 @@ body {
 /*konets pervoy chasti*/
 .documents-photo {
   min-height: 400px;
-  background-color: rgb(255, 255, 2);
   background-position: center center;
 }
 .greenfoto {
-  position: relative;
   margin-right: -70px;
+  width: 102px;
+  height: 127px;
+  margin-top: 20px;
 }
 .docfoto {
-  position: absolute;
-  margin-top: 35px;
+  margin-bottom: 30px;
 }
-.ugol foto {
-  position: absolute;
+
+.camerafoto {
+  margin-left: -90px;
+  margin-bottom: 40px;
+}
+.documents-text {
+  margin-left: 30px;
+  width: 270px;
+}
+.fotos {
+  align-items: center;
+}
+
+.column1 {
+  display: flex;
+  padding-top: 165px;
+  margin-left: 195px;
+}
+.column2 {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  margin-right: 195px;
+  margin-top: -139px;
+}
+.photos-text {
+  margin-left: 60px;
+  width: 270px;
+}
+.documents-photo h2 {
+  font-size: 27.35px;
+  font-family: "Open Sans" sans-serif;
+  color: rgb(0, 0, 0);
+}
+.documents-photo p {
+  font-size: 14px;
+  font-family: "Open Sans" sans-serif;
+  color: rgb(79, 78, 78);
+}
+.heading1 {
+  min-height: 1355px;
+  background: url(../images/lsd.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  padding: 0px;
+  background-size: cover;
+}
+.heading-content {
+  display: inline-block;
+  text-align: center;
+  width: 100%;
+  margin-top: 0;
+  padding-top: 80px;
+}
+
+.zagolovok {
+  margin: 0px;
+  padding-top: 30px;
+  padding-bottom: 35px;
+
+  font-size: 39.35px;
+  font-family: "Open Sans" sans-serif;
+  color: rgb(255, 255, 255);
+  line-height: 1.576;
+  text-align: center;
+}
+.paragraf {
+  width: 650px;
+  display: inline-block;
+  text-align: left;
+
+  font-size: 14px;
+  font-family: "Open Sans" sans-serif;
+  color: rgb(255, 255, 255);
+  line-height: 1.643;
+}
+.paragraf1 {
+  padding-bottom: 40px;
+}
+.picture {
+}
+.perehod {
+  display: inline-block;
+  text-align: center;
+  margin-top: -60px;
+  margin-right: -50px;
+  width: 1108px;
+}
+
+.shape30 {
+  display: inline-block;
+  text-align: center;
+  width: 1280px;
+  margin-left: -110px;
+  margin-top: -20px;
+}
+.heading2-content {
+  display: inline-block;
+  text-align: center;
+  width: 100%;
+  padding-top: -119px;
+}
+.wparagaf {
 }
