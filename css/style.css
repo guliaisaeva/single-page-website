@@ -162,10 +162,47 @@ body {
   margin-top: -20px;
 }
 .heading2-content {
-  display: inline-block;
-  text-align: center;
-  width: 100%;
-  padding-top: -119px;
 }
+
 .wparagaf {
+  display: inline-block;
+  text-align: left;
+  width: 510px;
+  font-size: 14px;
+  font-family: "Open Sans" sans-serif;
+  color: rgb(255, 255, 255);
+  line-height: 1.643;
+  padding: 0px;
+  margin: 0px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+.zagolovok1 {
+  font-size: 39.35px;
+  font-family: "Open Sans" sans-serif;
+  color: rgb(255, 255, 255);
+  line-height: 1.576;
+  padding: 0px;
+  margin: 0px;
+}
+.picture2 {
+  display: inline-block;
+  justify-content: start;
+  width: 275px;
+  padding-left: 220px;
+  padding-top: 150px;
+}
+.heading2-text {
+  padding-left: 560px;
+  margin-top: -250px;
+}
+.btn {
+  border: 4px solid white;
+  width: 200px;
+  height: 60px;
+  border-radius: 10px;
+}
+.btn a {
+  text-decoration: none;
 }
