@@ -162,6 +162,7 @@ body {
   margin-top: -20px;
 }
 .heading2-content {
+  padding-bottom: 130px;
 }
 
 .wparagaf {
@@ -205,4 +206,54 @@ body {
 }
 .btn a {
   text-decoration: none;
+  font-size: 27.35px;
+  font-family: "Open Sans" sans-serif;
+  color: rgb(255, 255, 255);
+  line-height: 2.267;
+  text-align: center;
+  margin-left: 40px;
+  margin-bottom: 20px;
+}
+.map {
+  min-height: 640px;
+  background-image: url(../images/Layer\ 16.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  padding-bottom: 0%;
+}
+.map-content {
+  min-height: 440px;
+  text-align: center;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+}
+.ellips {
+  position: relative;
+  padding-top: 160px;
+}
+.form {
+  position: absolute;
+  padding-left: 550px;
+  margin-top: -300px;
+  font-size: 14px;
+  font-family: "Open Sans" sans-serif;
+  color: rgba(76, 80, 93, 0.502);
+  line-height: 1.571;
+}
+.btn {
+  size: 70px;
+}
+.footer {
+  min-height: 50px;
+  background-color: #43a06d;
+  margin-top: -15px;
+  padding: 0%;
+}
+.footer-text {
+  text-align: center;
+  padding-top: 20px;
+  font-size: 14px;
+  font-family: "Open Sans" sans-serif;
+  color: rgb(255, 255, 255);
+  line-height: 1.571;
 }
